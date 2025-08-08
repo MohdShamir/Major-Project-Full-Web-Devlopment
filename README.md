@@ -26,6 +26,6 @@ I'm a **Computer Engineering** student at **Uttaranchal University**, passionate
 
 ## 📬 Let's Connect
 - **GitHub**: [https://github.com/MohdShamir]
-- **LinkedIn**: [https://www.linkedin.com/mohd-shamir]
+- **LinkedIn**: [www.linkedin.com/in/mohd-shamir]
 
 🚀 Always open to collaborating on exciting projects and learning new technologies!
